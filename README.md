@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dr-DaSilvaCJF, I'm Biologist-Biotechnology
-- 👀 I’m interested in Programming Languages (R and Python) applied to statistics and data analysis in the Health area.
+- 👀 I’m interested in Programming Languages (R as main language) applied to statistics and data analysis in the Health area.
 - I’m currently learning R language/RStudio, SQL, docker and Git
 - I’m looking to collaborate on R/Rstudio to learn more.
 <!---c
